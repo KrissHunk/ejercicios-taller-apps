@@ -1,0 +1,65 @@
+body {
+    margin-left: 32%;
+    margin-right: 32%;
+    margin-bottom: 0%;
+    border-radius: 20%;
+}
+
+h1 {
+    color: #5ad2ae;
+    font-weight: bold;
+    font-family: "Eras Light";
+}
+
+p {
+    color: rgb(205, 193, 212);
+    font-family: "Eras Medium";
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 1px;
+}
+
+main {
+    display: block;
+    border-style: dotted;
+    text-align: center;
+    padding-top: 5px;
+    background-color: rosybrown;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.caja-artista {
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    background-color: rosybrown;
+    grid-gap: 10px;
+    padding-left: 6%;
+    padding-right: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.img-artista {
+    border-style: solid;
+    width: 93px;
+    height: 93px;
+    border-radius: 50px;
+    grid-gap: 50px;
+    grid-column: 50px;
+}
+
+article {
+    background: #5DEAA8;
+    border-style: dotted;
+    background-color: green;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    height: 135px;
+    width: 135px;
+    border-radius: 25px;
+}
