@@ -1,0 +1,83 @@
+body {
+    margin: auto;
+    margin-top: 5%;
+}
+
+.caja-roja {
+    position: center;
+    width: 1440px;
+    height: 1024px;
+    border: 5px solid #FF0000;
+    box-sizing: border-box;
+}
+
+.caja-morada {
+    text-align: center;
+    width: 1430px;
+    height: 225px;
+    background: #FFFFFF;
+    border: 5px solid #B10FCB;
+    box-sizing: border-box;
+}
+
+.caja-celeste {
+    width: 1430px;
+    height: 789px;
+    background: #FFFFFF;
+    border: 5px solid #74E6FF;
+    box-sizing: border-box;
+}
+
+.caja-verde {
+    position: absolute;
+    width: 428px;
+    height: 779px;
+    background: #FFFFFF;
+    border: 5px solid #5DFF11;
+    box-sizing: border-box;
+}
+
+.caja-azul {
+    margin-left: auto;
+    width: 993px;
+    height: 779px;
+    background: #FFFFFF;
+    border: 5px solid #231FFF;
+    box-sizing: border-box;
+}
+
+.caja-naranja {
+    float: top;
+    height: 176px;
+    background: #FFFFFF;
+    border: 5px solid #FF8A1F;
+    box-sizing: border-box;
+}
+
+.caja-rosada {
+    position: center;
+    width: 982px;
+    height: 593px;
+    background: #FFFFFF;
+    border: 5px solid #FF1FF6;
+    box-sizing: border-box;
+}
+
+h1 {
+    padding-top: 40px;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+}
+
+h2 {
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 48px;
+    line-height: 56px;
+}
